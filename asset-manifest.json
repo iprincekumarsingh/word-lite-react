@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/word-lite-react/static/css/main.d8dc31f0.chunk.css",
+    "main.js": "/word-lite-react/static/js/main.ab64df09.chunk.js",
+    "main.js.map": "/word-lite-react/static/js/main.ab64df09.chunk.js.map",
+    "runtime-main.js": "/word-lite-react/static/js/runtime-main.a74cc53d.js",
+    "runtime-main.js.map": "/word-lite-react/static/js/runtime-main.a74cc53d.js.map",
+    "static/css/2.dfa6656c.chunk.css": "/word-lite-react/static/css/2.dfa6656c.chunk.css",
+    "static/js/2.7a578c97.chunk.js": "/word-lite-react/static/js/2.7a578c97.chunk.js",
+    "static/js/2.7a578c97.chunk.js.map": "/word-lite-react/static/js/2.7a578c97.chunk.js.map",
+    "index.html": "/word-lite-react/index.html",
+    "static/css/2.dfa6656c.chunk.css.map": "/word-lite-react/static/css/2.dfa6656c.chunk.css.map",
+    "static/css/main.d8dc31f0.chunk.css.map": "/word-lite-react/static/css/main.d8dc31f0.chunk.css.map",
+    "static/js/2.7a578c97.chunk.js.LICENSE.txt": "/word-lite-react/static/js/2.7a578c97.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a74cc53d.js",
+    "static/css/2.dfa6656c.chunk.css",
+    "static/js/2.7a578c97.chunk.js",
+    "static/css/main.d8dc31f0.chunk.css",
+    "static/js/main.ab64df09.chunk.js"
+  ]
+}
